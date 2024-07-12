@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-has-comments: true
+has-comments: false
 title: Setting up the Blog
 category: tech
 tags: ["tutorial"]

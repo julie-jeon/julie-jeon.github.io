@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-has-comments: true
+has-comments: false
 title: Modifying the Header
 category: tech
 tags: ["tutorial"]

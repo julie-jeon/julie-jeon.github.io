@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-has-comments: true
+has-comments: false
 title: Web app mode
 category: tech
 tags: ["tutorial"]

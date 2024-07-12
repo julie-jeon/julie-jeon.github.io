@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-has-comments: true
+has-comments: false
 title: Initial setup
 category: tech
 tags: ["tutorial"]
